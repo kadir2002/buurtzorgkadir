@@ -1,0 +1,36 @@
+Website delen: server deel & website deel  
+
+Root> \index.php
+      \medewerkersbrief.txt
+      \content_en\medewerker\1
+      \content_en\nieuws\1
+      \var\vhosts\idb\www\index.php
+
+url + ../../medewerkersbrief.txt
+
+\img\public\database\activities\...jpg
+
+username: demo
+ww: tEfX8C8qwzNFoIMeOQZO1MwQ.
+
+Nodig:
+
+- Naam van database
+- Naam van Tabel
+- Naam van kolom met wachtwoorden
+- Username + password
+- Inloggen
+
+Gebruik MSQLI cheat sheet
+
+mysql colums
+
+group_concat
+
+
+
+
+
+
+
+
